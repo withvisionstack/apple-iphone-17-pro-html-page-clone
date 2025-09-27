@@ -1,20 +1,20 @@
   // Mapeamento de imagens por cor (cada cor com múltiplas imagens)
     const imagensPorCor = {
         "Prateado": [
-            "../images/iphone-prateado.webp",
-            "../images/iphone-prateado2.webp",
-            "../images/iphone-prateado3.webp"
+            "/images/iphone-prateado.webp",
+            "/images/iphone-prateado2.webp",
+            "/images/iphone-prateado3.webp"
         ],
         "Laranja-cósmico": [
-            "../images/iphone-laranja-cosmico.jpg",
-            "../images/iphone-laranja-cosmico2.webp",
-            "../images/iphone-laranja-cosmico3.jpg",
-            "../images/iphone-laranja-cosmico4.jpg"
+            "/images/iphone-laranja-cosmico.jpg",
+            "/images/iphone-laranja-cosmico2.webp",
+            "/images/iphone-laranja-cosmico3.jpg",
+            "/images/iphone-laranja-cosmico4.jpg"
         ],
         "Azul-intenso": [
-            "../images/iphone-azul-intenso.webp",
-            "../images/iphone-azul-intenso2.webp",
-            "../images/iphone-azul-intenso3.webp"
+            "/images/iphone-azul-intenso.webp",
+            "/images/iphone-azul-intenso2.webp",
+            "/images/iphone-azul-intenso3.webp"
         ]
     };
 
